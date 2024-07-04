@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP projects\\InventoryExamWeek2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8959A394-149A-45C0-BEAA-BFCC778859AF}|Inventory.App.csproj|d:\\asp projects\\inventoryexamweek2-main\\views\\newfolder1\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8959A394-149A-45C0-BEAA-BFCC778859AF}|Inventory.App.csproj|solutionrelative:views\\newfolder1\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8959A394-149A-45C0-BEAA-BFCC778859AF}|Inventory.App.csproj|d:\\asp projects\\inventoryexamweek2-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8959A394-149A-45C0-BEAA-BFCC778859AF}|Inventory.App.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8959A394-149A-45C0-BEAA-BFCC778859AF}|Inventory.App.csproj|d:\\asp projects\\inventoryexamweek2-main\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8959A394-149A-45C0-BEAA-BFCC778859AF}|Inventory.App.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP projects\\InventoryExamWeek2-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP projects\\InventoryExamWeek2-main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T16:14:35.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "D:\\ASP projects\\InventoryExamWeek2-main\\Views\\NewFolder1\\about.cshtml",
+              "RelativeDocumentMoniker": "Views\\NewFolder1\\about.cshtml",
+              "ToolTip": "D:\\ASP projects\\InventoryExamWeek2-main\\Views\\NewFolder1\\about.cshtml",
+              "RelativeToolTip": "Views\\NewFolder1\\about.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T16:13:42.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\ASP projects\\InventoryExamWeek2-main\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\ASP projects\\InventoryExamWeek2-main\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T16:10:41.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

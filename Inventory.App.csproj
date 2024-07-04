@@ -2350,6 +2350,7 @@
     <Content Include="Theme\plugins\summernote\summernote.min.js.map" />
     <Content Include="Theme\plugins\toastr\toastr.js.map" />
     <Content Include="Views\Home\Dashboard.cshtml" />
+    <Content Include="Views\NewFolder1\about.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
